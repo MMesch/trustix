@@ -35,7 +35,6 @@ import (
 	"github.com/tweag/trustix/packages/trustix/internal/pool"
 	"github.com/tweag/trustix/packages/trustix/internal/protocols"
 	pub "github.com/tweag/trustix/packages/trustix/internal/publisher"
-	// "github.com/tweag/trustix/packages/trustix/internal/rpc/auth"
 	"github.com/tweag/trustix/packages/trustix/internal/server"
 	"github.com/tweag/trustix/packages/trustix/internal/signer"
 	"github.com/tweag/trustix/packages/trustix/internal/sthsync"
